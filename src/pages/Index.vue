@@ -1,6 +1,8 @@
 <template>
-  <q-page class="flex flex-center">
-    <h1>Home Page</h1>
+  <q-page>
+    <div class="row justify-center">
+      <h1>Home Page</h1>
+    </div>
   </q-page>
 </template>
 

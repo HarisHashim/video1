@@ -1,7 +1,11 @@
 <template>
-  <q-page class="flex flex-center" padding>
-    <div ><h1>About Page</h1></div>
-    <div ><about-content /></div>
+  <q-page>
+    <div class="row justify-center">
+      <h1>About Page</h1>
+    </div>
+    <div class="row justify-center">
+      <about-content />
+    </div>
   </q-page>
 </template>
 
